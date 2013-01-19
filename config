@@ -1,16 +1,16 @@
 {
     "skysync.js": {
-        "SYNOCOMMUNITY.Skysync.AppInstance": {
+        "PLATANUS.Skysync.AppInstance": {
             "type": "app",
             "title": "app:app_name",
             "version": "0.1",
             "icon": "images/icon-{0}.png",
             "texts": "texts",
             "allowMultiInstance": false,
-            "appWindow": "SYNOCOMMUNITY.Skysync.AppWindow",
-            "depend": ["SYNOCOMMUNITY.Skysync.AppWindow"]
+            "appWindow": "PLATANUS.Skysync.AppWindow",
+            "depend": ["PLATANUS.Skysync.AppWindow"]
         },
-        "SYNOCOMMUNITY.Skysync.AppWindow": {
+        "PLATANUS.Skysync.AppWindow": {
             "type": "lib",
             "title": "app:app_name",
             "icon": "images/icon-{0}.png",

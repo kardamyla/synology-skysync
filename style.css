@@ -25,62 +25,62 @@ body.ext-ie6 .x-superboxselect-item {margin: 2px 1px 2px 1px; line-height: 1.2em
 .x-item-disabled .x-superboxselect-item-close{ background-position: left -36px}
 
 /* List view customized style */
-.synocommunity-subliminal-list {
+.platanus-subliminal-list {
 	background-color: #E1ECFA !important;
 }
 
-.synocommunity-subliminal-list .x-list-selected {
+.platanus-subliminal-list .x-list-selected {
 	background-image: url(images/list_item_active.png);
 	background-position: right top;
 	color: #FFF;
 }
-.synocommunity-subliminal-list .x-list-over {
+.platanus-subliminal-list .x-list-over {
 	background-image: url(images/list_item_hover.png);
 	background-position: right top;
 	color: #FFF;
 }
 
-.synocommunity-subliminal-list-column div {
+.platanus-subliminal-list-column div {
 	background-repeat: no-repeat;
 	padding-left: 20px;
 	height: 16px;
 	line-height: 16px;
 }
 
-.synocommunity-subliminal .synocommunity-subliminal-list .x-panel-body {
+.platanus-subliminal .platanus-subliminal-list .x-panel-body {
 	background-color: #E1ECFA;
-	background-image: url(images/synocommunity.png);
+	background-image: url(images/platanus.png);
 	background-position: center bottom;
 	background-repeat: no-repeat;
 }
 
 /* List view icons */
-.synocommunity-subliminal-list-parameters {
+.platanus-subliminal-list-parameters {
 	background-image: url(images/parameters.png);
 	margin-left: 16px;
 }
-.synocommunity-subliminal-list-directories {
+.platanus-subliminal-list-directories {
 	background-image: url(images/directories.png);
 	margin-left: 16px;
 }
 
 /* Titles */
-.synocommunity-subliminal-list-column div.synocommunity-subliminal-list-console_title {
+.platanus-subliminal-list-column div.platanus-subliminal-list-console_title {
 	margin-top: 8px;
 	padding-left: 0;
 	color: #003C66 !important;
 	font-weight: bold;
 }
 
-.x-list-over .synocommunity-subliminal-list-column div.synocommunity-subliminal-list-console_title {
+.x-list-over .platanus-subliminal-list-column div.platanus-subliminal-list-console_title {
 	cursor: default;
 }
 
-.synocommunity-subliminal-compositefield-button {
+.platanus-subliminal-compositefield-button {
     left: auto;
     right: 0;
 }
 
-.ext-ie8 .synocommunity-subliminal .x-toolbar-cell .x-form-field-trigger-wrap .x-form-trigger {
+.ext-ie8 .platanus-subliminal .x-toolbar-cell .x-form-field-trigger-wrap .x-form-trigger {
 	right: auto
 }
